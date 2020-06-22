@@ -23,5 +23,5 @@ app.use(function (req, res, next) {
 });
 
 app.listen(process.env.BID_APP_PORT, () => {
-    console.log('Bid2Win Web app listening on port', process.env.BID_APP_PORT)
+    console.log('App listening on port', process.env.BID_APP_PORT)
 });
