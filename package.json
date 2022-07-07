@@ -1,7 +1,7 @@
 {
-  "name": "bid_apis",
+  "name": "sample_apis",
   "version": "0.0.1",
-  "description": "Bid2win APIs",
+  "description": "Sample APIs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
