@@ -1,1 +1,1 @@
-This is a simple boiler plate, developed by nodejs and express 
+This is a simple boilerplate, developed by nodejs and express 
